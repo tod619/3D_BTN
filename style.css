@@ -16,3 +16,18 @@
     align-items: center;
     justify-content: center;
 }
+
+.btn {
+    width: 300px;
+    height: 100px;
+    background: linear-gradient(#853916, #6b3019);
+    border: none;
+    outline: none;
+    font-family: 'Slabo 27px', serif;
+    font-size: 35px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #fff;
+    text-shadow: 0 10px 10px #000;
+    cursor: pointer;
+}
